@@ -1,7 +1,0 @@
-{
-  "name": "AIdentify - Automotive Part Recognition",
-  "description": "An AI-powered application to identify automotive parts using multi-angle scans. Capture 3+ angles to get precise part numbers, names, and station data.",
-  "requestFramePermissions": [
-    "camera"
-  ]
-}
